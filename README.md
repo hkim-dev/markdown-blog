@@ -2,10 +2,11 @@
 This [markdown](https://www.computerhope.com/jargon/m/markdown.htm) blog is built with Node.js Express and MongoDB Atlas. Users can get blog posts from the MongoDB cluster, and post new articles, update and delete them.
 
 ## Main Page
-https://user-images.githubusercontent.com/41644259/108127931-ff35c600-7079-11eb-8099-0d868c852ffd.png
+<img width="1440" alt="Screen Shot 2021-02-16 at 4 50 34 PM" src="https://user-images.githubusercontent.com/41644259/108127931-ff35c600-7079-11eb-8099-0d868c852ffd.png">
+
 
 ## Blog Post
-https://user-images.githubusercontent.com/41644259/108128504-d7932d80-707a-11eb-88e2-0b71e10ca315.png
+<img width="1440" alt="Screen Shot 2021-02-16 at 4 55 43 PM" src="https://user-images.githubusercontent.com/41644259/108128504-d7932d80-707a-11eb-88e2-0b71e10ca315.png">
 
 
 ## Install
