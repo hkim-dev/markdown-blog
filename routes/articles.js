@@ -17,8 +17,8 @@ router.get('/edit/:id', async (req, res) => {
 router.get('/:slug', async (req, res) => {
     const article = await Article.findOne({ slug: req.params.slug }); // findById: asynchronous function
     if (article == null) {
+        console.log("There is no article!");
         res.redirect('/');
-        window.alert('There\'s no such article!');
     }
     res.render('articles/show', {article: article});
 
